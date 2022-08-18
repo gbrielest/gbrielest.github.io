@@ -9,7 +9,7 @@ font-family: 'Roboto', sans-serif; */
 
 body {
   font-family: "Roboto";
-  background-color: #1446a0;
+  background-color: #242425;
 }
 
 h1 {
@@ -82,7 +82,7 @@ h1 {
 }
 
 .menu ul li a:hover {
-  color: #1446a0;
+  color: #F0A500;
 }
 
 @media (max-width: 768px) {
@@ -155,7 +155,7 @@ h1 {
   display: inline-block;
   text-align: center;
   padding: 25px 83px;
-  background-color: #f5d547;
+  background-color: #F0A500;
   border-radius: 8px;
   font-size: 24px;
   color: #000;
@@ -182,7 +182,7 @@ h1 {
   width: 500px;
   height: 500px;
   object-fit: cover;
-  box-shadow: #000 0 24px 48px 0;
+  box-shadow: #242425 0 24px 48px 0;
   filter: grayscale(0);
   transition: all 0.8s ease;
 }
@@ -196,7 +196,7 @@ h1 {
   transform: translateX(37px) rotate(-6deg);
   width: 500px;
   height: 500px;
-  background-color: #f5d547;
+  background-color: #F0A500;
   position: absolute;
   z-index: -10;
 }
@@ -208,7 +208,7 @@ h1 {
 
 .redes-sociais a {
   font-size: 60px;
-  color: #f5d547;
+  color: #F0A500;
   padding-right: 34px;
   transition: all 1.5s ease;
 }
@@ -358,16 +358,16 @@ h1 {
 
 .linha-seta a:hover {
   font-size: 30px;
-  color: #04a777;
+  color: #F0A500;
   transition: all 1s ease;
 }
 
 .fundo-projetos {
-  background-color: #04a777;
+  background-color: #F0A500;
 }
 
 .texto-contato a {
-  color: #000;
+  color: #242425;
   text-decoration: none;
   font-weight: 500;
   letter-spacing: 2px;
@@ -375,15 +375,15 @@ h1 {
 }
 
 .texto-contato a:hover {
-  color: #b3001b;
+  color: #F0A500;
 }
 
 .redes-sociais-contatos a {
-  color: #b3001b;
+  color: #F0A500;
 }
 
 .redes-sociais-projetos a {
-  color: #04a777;
+  color: #F0A500;
 }
 
 #formulario-contato input,
@@ -402,8 +402,8 @@ h1 {
   padding: 10px;
   text-align: center;
   width: 200px;
-  background-color: #b3001b;
-  border: 1px solid #940117;
+  background-color: #F0A500;
+  border: 1px solid #F0A500;
   color: #e8eddf;
   border-radius: 8px;
   font-weight: 600;
