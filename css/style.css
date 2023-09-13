@@ -9,7 +9,7 @@ font-family: 'Roboto', sans-serif; */
 
 body {
   font-family: "Roboto";
-  background-color: #242425;
+  background-color: #042940;
 }
 
 h1 {
@@ -82,7 +82,7 @@ h1 {
 }
 
 .menu ul li a:hover {
-  color: #F0A500;
+  color: #DBF227;
 }
 
 @media (max-width: 768px) {
@@ -155,7 +155,7 @@ h1 {
   display: inline-block;
   text-align: center;
   padding: 25px 83px;
-  background-color: #F0A500;
+  background-color: #DBF227;
   border-radius: 8px;
   font-size: 24px;
   color: #000;
@@ -196,7 +196,7 @@ h1 {
   transform: translateX(37px) rotate(-6deg);
   width: 500px;
   height: 500px;
-  background-color: #F0A500;
+  background-color: #DBF227;
   position: absolute;
   z-index: -10;
 }
@@ -208,7 +208,7 @@ h1 {
 
 .redes-sociais a {
   font-size: 60px;
-  color: #F0A500;
+  color: #DBF227;
   padding-right: 34px;
   transition: all 1.5s ease;
 }
@@ -358,12 +358,12 @@ h1 {
 
 .linha-seta a:hover {
   font-size: 30px;
-  color: #F0A500;
+  color: #DBF227;
   transition: all 1s ease;
 }
 
 .fundo-projetos {
-  background-color: #F0A500;
+  background-color: #DBF227;
 }
 
 .texto-contato a {
@@ -375,15 +375,15 @@ h1 {
 }
 
 .texto-contato a:hover {
-  color: #F0A500;
+  color: #DBF227;
 }
 
 .redes-sociais-contatos a {
-  color: #F0A500;
+  color: #DBF227;
 }
 
 .redes-sociais-projetos a {
-  color: #F0A500;
+  color: #DBF227;
 }
 
 #formulario-contato input,
@@ -402,9 +402,9 @@ h1 {
   padding: 10px;
   text-align: center;
   width: 200px;
-  background-color: #F0A500;
-  border: 1px solid #F0A500;
-  color: #e8eddf;
+  background-color: #DBF227;
+  border: 1px solid #DBF227;
+  color: #042940;
   border-radius: 8px;
   font-weight: 600;
   text-transform: uppercase;
